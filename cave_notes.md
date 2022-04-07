@@ -1,11 +1,17 @@
+# Cave - written by Caprice 
 Written in March 2022 for my "Composing Music with Technology" class, using Ableton Live 10
 
 __LISTEN WITH HEADPHONES__
 
-### The assignment:
+### The Assignment:
 - An emphasis on collaboration with a peer, with the goal of producing at least two tracks together
 - Elements of each tune are influenced by both members of the team
 - We were given multiple prompts to chose from to guide our compositions
+
+### My Personal Goals:
+- Learn more about the "Audio Effects" and "Automation" features of Ableton
+- Lean out of my comfort zone of composing (melody and chord-based songs) into something new
+- Collaborate with another student, be open to criticism and advice, and *use* that advice to improve
 
 ### The process:
 - My classmate and I chose to create two videogame soundtracks that were inspired by the music in the game Minecraft
@@ -30,6 +36,18 @@ __LISTEN WITH HEADPHONES__
     - I then started exploring with different audio effects, such as reverberation, panning, sound "width", and delay
     - With the delay effect, I created a version of H1L1 that repeats the notes being played several times (you hear this come in at ~0:40)
     - With reverb, I filled in the empty spaces that are left with the original sounds that Ableton 10 provides, and enhanced the space the music is played it (more multi-dimensional)
+
+    - After I had all my parts, I recorded them into the "arrangment" view of Ableton, did some work on automation (e.g. changing the volume over time of some instruments, panning a track from one ear to the other, etc), and filled in the ending of the song
+
+    - Lastly, added some finishing touches, did some minor editing, alligned my track with my partner's, and here we are!
+
+
+# Reflection
+I'm incredibly happy with the results of this project - it was fun, I reached most of my goals pretty well, and I like the song I wrote. 
+### Improvements:
+- I could have done more to collaborate with my partner - it definitely felt like we were doing the bare minimum amount of "collaboration" to fit in the requirements of the project, and for the most part worked individually
+    - One other pair of students actually worked on the same project and computer intitially, to come up with the song base, and then split off to turn that one song into their own "versions" - a much more "hands-on" collaborative process than I felt comfortable with
+
          
    
       
