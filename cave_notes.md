@@ -3,6 +3,8 @@ Written in March 2022 for my "Composing Music with Technology" class, using Able
 
 __LISTEN WITH HEADPHONES__
 
+## Overview
+
 ### The Assignment:
 - An emphasis on collaboration with a peer, with the goal of producing at least two tracks together
 - Elements of each tune are influenced by both members of the team
@@ -13,17 +15,17 @@ __LISTEN WITH HEADPHONES__
 - Lean out of my comfort zone of composing (melody and chord-based songs) into something new
 - Collaborate with another student, be open to criticism and advice, and *use* that advice to improve
 
-### The process:
+## The Process:
 - My classmate and I chose to create two videogame soundtracks that were inspired by the music in the game Minecraft
 - Minecraft music is very ambient, peaceful, and immersive
 - It's also very nostalgic for me, since I used to play the game a lot
 
-    #### The collaboration process:
+    #### The Collaborative Process:
     - We first talked about the kind of sounds that we would be using to follow the "ambience" theme, and made sure we had a clear picture of what our end goal was
     - We chose to each focus on one separate initial musical idea, and then connect on what those were and offer suggestions / figure out more ways to tie them together
     - We then split off to work more individually, while listening to the other's work throughout the process and offering advice
     
-    #### My process:
+    #### My Process:
      - I started by listening to some Minecraft tracks [1], and getting a feel for the way that music elements were used to create that ambient, spacious feeling
       - Contrast and similarity between the tone, range, duration, volume, and movement of sounds
       - "Panning" of sounds from ear-to-ear to give tracks more volume
@@ -41,8 +43,11 @@ __LISTEN WITH HEADPHONES__
 
     - Lastly, added some finishing touches, did some minor editing, alligned my track with my partner's, and here we are!
 
+## Song Layout
+*using rough timestamps*
+TBA
 
-# Reflection
+## Reflection
 I'm incredibly happy with the results of this project - it was fun, I reached most of my goals pretty well, and I like the song I wrote. 
 ### Improvements:
 - I could have done more to collaborate with my partner - it definitely felt like we were doing the bare minimum amount of "collaboration" to fit in the requirements of the project, and for the most part worked individually
