@@ -1,4 +1,4 @@
-# Cave - written by Caprice 
+# Cave - written by Izzie 
 Written in March 2022 for my "Composing Music with Technology" class, using Ableton Live 10
 
 __LISTEN WITH HEADPHONES__
